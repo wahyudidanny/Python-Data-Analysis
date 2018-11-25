@@ -23,4 +23,9 @@
 
 6.data munging--> change particular format to another format
 
-7.
+7.Use Case example
+
+8.Pyhton for statistic
+ mean , median (high median , low media) , mode, variance
+
+
