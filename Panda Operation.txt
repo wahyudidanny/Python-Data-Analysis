@@ -1,0 +1,26 @@
+1.Slicing the Dataframe
+2.Changing the Index
+3.Data Conversion
+4.Joining and merging
+5.Concatenation
+6.Changing the column Headers
+
+
+1.slicing, for slice the particular data in dataframe
+ there are 2 type of slice there are head and tail,both need argument which how many data you need to slice
+ head -> slice data from the first of dataframe
+ tail -> slice data from the end of dataframe
+
+2.Merging -> merge 2 dataframe to become 1 dataframe
+ need 2 argument, if you want to merge the first DF and the second DF
+ if need 1 particular column then use 3 argument
+
+3.joining -> join 2 dataframe similar with sql
+
+4.changing the index and colum headers
+
+5.concatenation
+
+6.data munging--> change particular format to another format
+
+7.
